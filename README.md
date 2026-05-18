@@ -46,8 +46,19 @@ Bu proje, **vgsales** veri seti kullanılarak popüler video oyunlarının satı
 
 Projeyi yerelde çalıştırmak isterseniz:
 ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git](https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git)
+   git clone [https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git](https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git)'''
 
 1. Depoyu bilgisayarınıza indirin:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git](https://github.com/KULLANICI_ADINIZ/video-game-sales-analysis.git)
+      git clone https://github.com/KENDI_KULLANICI_ADIN/video-game-sales-analysis.git'''
+
+2. Gerekli kütüphaneleri yükleyin:
+ ```bash
+      pip install pandas numpy matplotlib seaborn scikit-learn
+3.PyCharm veya herhangi bir editörde final_projesi.ipynb dosyasını çalıştırın.'''
+
+
+
+
+
+
