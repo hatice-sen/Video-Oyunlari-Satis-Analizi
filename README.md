@@ -52,6 +52,7 @@ Terminal, Komut Satırı veya Git Bash açarak projeyi bilgisayarınıza klonlay
 git clone [https://github.com/hatice-sen/Video-Oyunlari-Satis-Analizi.git](https://github.com/hatice-sen/Video-Oyunlari-Satis-Analizi.git)
 
 
+
 2. Gerekli Kütüphaneleri Yükleyin
 
  pip install pandas numpy matplotlib seaborn scikit-learn
