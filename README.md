@@ -49,11 +49,11 @@ Projeyi kendi bilgisayarınızda (yerelde) çalıştırmak ve analizleri incelem
 ### 1. Depoyu Bilgisayarınıza İndirin
 Terminal, Komut Satırı veya Git Bash açarak projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone https://github.com/hatice-sen/Video-Oyunlari-Satis-Analizi.git '''
+git clone https://github.com/hatice-sen/Video-Oyunlari-Satis-Analizi.git 
 
 2. Gerekli Kütüphaneleri Yükleyin
 ```bash
- pip install pandas numpy matplotlib seaborn scikit-learn'''
+ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Analizi Başlatın
    Proje klasörünün içindeki final_projesi.ipynb dosyasını editörünüzde açarak tüm kod bloklarını sırayla çalıştırıp analiz sonuçlarını görebilirsiniz.
